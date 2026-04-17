@@ -1,0 +1,2 @@
+# Quantization-and-Hallucination-Analysis-for-Arabic-Educational-LLMs
+This project investigates how low-bit quantization (4-bit) affects the reliability of large language models (LLMs) when answering educational questions in Arabic and English.  The study focuses on three main aspects:  Hallucination behavior under quantization Cross-linguistic performance  The effect of task complexity on model stability
